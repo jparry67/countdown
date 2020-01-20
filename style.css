@@ -1,0 +1,18 @@
+body {
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+}
+
+#countdown-page {
+	height: 100%;
+	display: grid;
+	place-items: center;
+	background-image: url('IMG_9749.jpg');
+	background-size: cover;
+}
+
+#countdown {
+	font-size: 40px;
+	text-shadow: 1px 1px 3px black;
+}
